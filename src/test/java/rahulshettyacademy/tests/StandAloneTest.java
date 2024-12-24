@@ -16,6 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import rahulshettyacademy.pageobjects.LandingPage;
 
 public class StandAloneTest {
+//new comments are added
 
 	public static void main(String[] args) {
 		String productName = "ZARA COAT 3";
